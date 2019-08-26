@@ -20,4 +20,4 @@ Click here for docs on creating a service account: https://cloud.google.com/iam/
 
   `touch your/repo/.github/main.yml`
 
-Open this newly created file and paste the contents of the example workflow. The only thing you need to do is to make sure your [app.yaml file is named correctly](https://github.com/ZeroCool2u/Python-Deploy-To-Google-App-Engine/blob/ec123b91500995e8ff62bf9a97b4f08066250355/example.yml#L38).
+Open this newly created file and paste the contents of the example workflow. The only thing you need to do is to make sure your [app.yaml file is named correctly](https://github.com/ZeroCool2u/Python-Deploy-To-Google-App-Engine/blob/ec123b91500995e8ff62bf9a97b4f08066250355/example.yml#L38) and your GCP [project name is set](https://github.com/ZeroCool2u/Python-Deploy-To-Google-App-Engine/blob/ec123b91500995e8ff62bf9a97b4f08066250355/example.yml#L35). 
